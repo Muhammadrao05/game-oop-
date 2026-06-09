@@ -1,0 +1,21 @@
+C:\Users\DEll\Desktop\OOP GAME\CastleGuardGame\bin\Debug\CastleGuardGame.exe.config
+C:\Users\DEll\Desktop\OOP GAME\CastleGuardGame\bin\Debug\CastleGuardGame.exe
+C:\Users\DEll\Desktop\OOP GAME\CastleGuardGame\bin\Debug\CastleGuardGame.pdb
+C:\Users\DEll\Desktop\OOP GAME\CastleGuardGame\obj\Debug\CastleGuardGame.csproj.AssemblyReference.cache
+C:\Users\DEll\Desktop\OOP GAME\CastleGuardGame\obj\Debug\CastleGuardGame.csproj.CoreCompileInputs.cache
+C:\Users\DEll\Desktop\OOP GAME\CastleGuardGame\obj\Debug\CastleGuardGame.exe
+C:\Users\DEll\Desktop\OOP GAME\CastleGuardGame\obj\Debug\CastleGuardGame.pdb
+C:\University Documents\Semester 2\OOP\LAB\Game\CastleGuardGame\bin\Debug\CastleGuardGame.exe.config
+C:\University Documents\Semester 2\OOP\LAB\Game\CastleGuardGame\bin\Debug\CastleGuardGame.exe
+C:\University Documents\Semester 2\OOP\LAB\Game\CastleGuardGame\bin\Debug\CastleGuardGame.pdb
+C:\University Documents\Semester 2\OOP\LAB\Game\CastleGuardGame\obj\Debug\CastleGuardGame.csproj.AssemblyReference.cache
+C:\University Documents\Semester 2\OOP\LAB\Game\CastleGuardGame\obj\Debug\CastleGuardGame.csproj.CoreCompileInputs.cache
+C:\University Documents\Semester 2\OOP\LAB\Game\CastleGuardGame\obj\Debug\CastleGuardGame.exe
+C:\University Documents\Semester 2\OOP\LAB\Game\CastleGuardGame\obj\Debug\CastleGuardGame.pdb
+C:\Users\windows 10\OneDrive\Desktop\game\CastleGuardGame\bin\Debug\CastleGuardGame.exe.config
+C:\Users\windows 10\OneDrive\Desktop\game\CastleGuardGame\bin\Debug\CastleGuardGame.exe
+C:\Users\windows 10\OneDrive\Desktop\game\CastleGuardGame\bin\Debug\CastleGuardGame.pdb
+C:\Users\windows 10\OneDrive\Desktop\game\CastleGuardGame\obj\Debug\CastleGuardGame.csproj.AssemblyReference.cache
+C:\Users\windows 10\OneDrive\Desktop\game\CastleGuardGame\obj\Debug\CastleGuardGame.csproj.CoreCompileInputs.cache
+C:\Users\windows 10\OneDrive\Desktop\game\CastleGuardGame\obj\Debug\CastleGuardGame.exe
+C:\Users\windows 10\OneDrive\Desktop\game\CastleGuardGame\obj\Debug\CastleGuardGame.pdb
